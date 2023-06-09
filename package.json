@@ -23,6 +23,7 @@
     "init-msw": "msw init public/"
   },
   "dependencies": {
+    "@storybook/addon-a11y": "^7.0.20",
     "vue": "^3.2.47"
   },
   "devDependencies": {
